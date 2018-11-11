@@ -33,6 +33,9 @@ PRODUCT_PACKAGES += \
 # Accents
 include vendor/overlay/accents.mk
 
+# Include Derp QS Style files
+include vendor/overlay/QS/qsstyle.mk
+
 # Prebuilts
 $(call inherit-product-if-exists, vendor/prebuilts/packages.mk)
 
