@@ -6,4 +6,5 @@ PRODUCT_PACKAGES += \
     AOSiPOverlayStub \
     PrimaryColorAOSiPBlackOverlay \
     PrimaryColorAOSiPNatureOverlay \
-    PrimaryColorAOSiPOceanOverlay
+    PrimaryColorAOSiPOceanOverlay \
+    PrimaryColorCharcoalBlackOverlay
