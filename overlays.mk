@@ -7,4 +7,5 @@ PRODUCT_PACKAGES += \
     PrimaryColorAOSiPBlackOverlay \
     PrimaryColorAOSiPNatureOverlay \
     PrimaryColorAOSiPOceanOverlay \
-    PrimaryColorCharcoalBlackOverlay
+    PrimaryColorCharcoalBlackOverlay \
+    PrimaryColorLeadBlackOverlay
