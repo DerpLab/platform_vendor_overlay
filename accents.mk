@@ -9,6 +9,7 @@ PRODUCT_PACKAGES += \
     NovaYellow \
     PersianRed \
     SlateSpruce \
+    Teal \
     TorchPink \
     White
 
