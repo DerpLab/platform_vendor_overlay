@@ -18,7 +18,8 @@ PRODUCT_PACKAGES += \
     PrimaryColorCharcoalBlackOverlay \
     PrimaryColorLeadBlackOverlay \
     PrimaryColorSolarizedDarkOverlay \
-    EmptyOverlay
+    EmptyOverlay \
+    MatchmakerOverlay
 
 # Accents
 include vendor/overlay/accents.mk
