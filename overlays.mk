@@ -18,6 +18,7 @@ PRODUCT_PACKAGES += \
     PrimaryColorCharcoalBlackOverlay \
     PrimaryColorLeadBlackOverlay \
     PrimaryColorSolarizedDarkOverlay \
+    PrimaryFlameOverlay \
     EmptyOverlay \
     MatchmakerOverlay
 
