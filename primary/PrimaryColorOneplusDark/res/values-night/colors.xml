@@ -18,7 +18,7 @@
 
 <resources>
     <color name="primary_device_default_settings">#1d1d1d</color> <!-- colorPrimary -->
-    <color name="primary_dark_device_default_settings">#040404</color> <!-- colorPrimaryDark-->
+    <color name="primary_dark_device_default_settings">#1b1b1b</color> <!-- colorPrimaryDark-->
     <color name="material_grey_800">#1d1d1d</color> <!-- google elgoogleogoelo -->
     <color name="material_grey_900">#1d1d1d</color> <!-- google elgoogleogoelo -->
     <color name="primary_device_default">@color/primary_dark_device_default_settings</color> <!-- only for ThemePicker! -->
